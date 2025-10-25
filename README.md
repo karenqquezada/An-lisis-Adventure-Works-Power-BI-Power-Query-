@@ -51,3 +51,9 @@ Este proyecto me permitió fortalecer mi dominio en Business Intelligence, desde
 /reports           → Informes ejecutivos, presentaciones y resultados finales
 /documentation     → Documentación técnica y notas del proyecto (modelo de datos, KPIs, DAX)
 
+## 📥 Descarga del Dashboard
+
+Puedes descargar el archivo Power BI (.pbix) aquí:  
+[Adventure Works Dashboard](https://drive.google.com/file/d/1zk1gpK7Hq_iqslGMknjeOoF0catQULCj/view?usp=drive_link)
+
+
